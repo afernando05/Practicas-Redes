@@ -1,3 +1,7 @@
+#video de la app
+https://drive.google.com/file/d/16aep2RPDM3VUNsAe2OGBrvi_NX0izLOI/view?usp=sharing
+
+
 # U4ACT02 - RESTCONF con Python y Tkinter
 
 **Alumno:** José Fernando Alfaro Almanza
